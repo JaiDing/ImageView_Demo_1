@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageView_Demo_1</string>
+    <string name="usrname">请输入用户名...</string>
+    <string name="passward">请输入密码...</string>
+</resources>
